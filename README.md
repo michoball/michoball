@@ -6,7 +6,7 @@
 - 😄 I'm self-taught Front-End Developer.   
 - 💥 My life motto is 복세편살 (Pun in Korean. It means "*Living simply in a complicated world !* ")    
 - 💻 I am interested in creating **Reusable** and **Simplifying** code.
-- 👯 I’m looking to collaborate on *open source*
+- 👯 I want to contribute to *open source*.
 - 🕵️‍♀️ I'm currently looking for a job !!
 
 
