@@ -31,7 +31,6 @@
 ### 📫 How to reach me:  myunghun0114@gmail.com <br/> <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michoball&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **michoball/michoball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
