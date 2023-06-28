@@ -1,14 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=91D7F2&height=200&section=header&text=Hi%20There~&gt&fontSize=100&fontColor=F2CB05&fontAlign=30&fontAlignY=35&desc=I'M%20MyungHun%20Kang&descSize=30&descAlign=70&descAlignY=55)
-
 ### 😄 Hello~!
 
-
 - 😄 I'm self-taught Front-End Developer.   
-- 💥 My life motto is 복세편살 (Pun in Korean. It means "*Living simply in a complicated world !* ")    
 - 💻 I am interested in creating **Reusable** and **Simplifying** code.
 - 👯 I want to contribute to *open source*.
 - 🕵️‍♀️ I'm currently looking for a job !!
-
 
 <br/>
 
@@ -22,6 +17,7 @@
 <br/>
     <h3>🎯I'm currently interested in </h3> <br/>
     <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=react-query&logoColor=white">
+    <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white">
     
 </div><br/><br/>
   
