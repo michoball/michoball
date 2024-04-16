@@ -1,10 +1,8 @@
 ### 😄 Hello~!
 
-- 😄 I'm self-taught Front-End Developer.   
+- 😄 I'm Front-End Developer.   
 - 💻 I am interested in creating **Reusable** and **Simplifying** code.
-- 👯 I want to contribute to *open source*.
-- 🕵️‍♀️ I'm currently looking for a job !!
-
+- 
 <br/>
 
 <div align="center">
